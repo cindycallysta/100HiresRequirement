@@ -1,0 +1,6 @@
+Campaign ID,Campaign Name,Channel,Start Date,End Date,Status,Objective,Budget ($),Spend ($),Impressions,Clicks,Leads,Conversions,Revenue ($),CPL ($),CPA ($),ROI (%),Owner,Notes
+CAMP-001,Q1 Product Launch,Paid Search,2026-01-01,2026-03-31,Active,Awareness + Leads,15000,4200,65000,3800,280,18,22000,15.00,233.33,423.8,,
+CAMP-002,Retargeting - Cart Abandon,Paid Social,2026-01-15,2026-02-28,Active,Conversion,8000,2100,45000,1350,95,12,8500,22.11,175.00,304.8,,
+CAMP-003,Newsletter - January Promo,Email,2026-01-08,2026-01-15,Completed,Engagement,500,480,0,0,120,8,6200,4.00,60.00,1191.7,,
+CAMP-004,Brand Awareness - Display,Display,2026-01-01,2026-01-31,Completed,Awareness,5000,4800,95000,1900,85,5,4200,56.47,960.00,-12.5,,
+CAMP-005,Webinar Registration,Sponsored Content,2026-02-01,2026-02-15,Planned,Lead Gen,3000,0,0,0,0,0,0,,,,

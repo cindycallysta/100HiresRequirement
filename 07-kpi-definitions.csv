@@ -1,0 +1,21 @@
+KPI Name,Category,Definition,Formula,Unit,Data Source,Reporting Frequency,Benchmark / Target Notes
+Impressions,Awareness,Number of times ad/content was displayed,Sum of ad impressions,Count,Ad platforms (Google Meta LinkedIn),Weekly / Monthly,Varies by channel and budget
+Reach,Awareness,Unique users who saw content,Platform-reported reach,Count,Social / display ad platforms,Monthly,Compare MoM and vs competitors
+Brand Search Volume,Awareness,Branded keyword search volume,Sum of branded search queries,Count,Google Search Console / SEM tools,Monthly,Leading indicator of brand awareness
+Website Sessions,Acquisition,Total visits to website,Sum of sessions,Count,Google Analytics / GA4,Weekly / Monthly,Segment by source/medium
+New Users,Acquisition,First-time visitors,Count of new users,Count,Google Analytics / GA4,Monthly,Track % of total sessions
+Cost Per Visit,Acquisition,Average cost to drive one session,Total Paid Spend / Paid Sessions,Currency,Ad platforms + Analytics,Monthly,Lower is better; compare by channel
+CTR,Engagement,Click-through rate on ads/emails,Clicks / Impressions,Percentage,Ad platforms / ESP,Weekly,Industry avg: 2-5% display; 3-6% search
+Bounce Rate,Engagement,Single-page sessions with no interaction,Single-page sessions / Total sessions,Percentage,Google Analytics,Monthly,Lower is generally better; context-dependent
+Email Open Rate,Engagement,Recipients who opened email,Unique Opens / Delivered,Percentage,Email platform (Mailchimp HubSpot etc.),Per campaign,Industry avg: 15-25%
+Email Click Rate,Engagement,Recipients who clicked a link,Unique Clicks / Delivered,Percentage,Email platform,Per campaign,Industry avg: 2-5%
+Leads Generated,Conversion,Marketing-qualified inquiries captured,Count of form fills / signups,Count,CRM / Marketing automation,Weekly / Monthly,Define lead criteria consistently
+MQLs,Conversion,Marketing qualified leads,Count meeting MQL criteria,Count,CRM (HubSpot Salesforce),Monthly,Align with sales on MQL definition
+SQLs,Conversion,Sales qualified leads,Count meeting SQL criteria,Count,CRM,Monthly,Track MQL-to-SQL acceptance rate
+Lead Conversion Rate,Conversion,Visitors who become leads,Leads / Website Sessions,Percentage,Analytics + CRM,Monthly,Typical B2B: 2-5%
+Cost Per Lead,Conversion,Spend required per lead,Total Marketing Spend / Leads,Currency,Finance + CRM,Monthly,Compare by channel and campaign
+Marketing-Attributed Revenue,Revenue,Revenue credited to marketing,Sum of closed-won attributed deals,Currency,CRM + attribution model,Monthly,Use consistent attribution window
+ROAS,Revenue,Return on ad spend,Revenue / Ad Spend,Ratio,Paid channels + CRM,Monthly,Target typically 3-5x+ depending on margins
+Customer Acquisition Cost,Revenue,Cost to acquire one customer,Total Sales + Marketing Cost / New Customers,Currency,Finance + CRM,Quarterly,Should be < 1/3 of LTV
+Pipeline Value,Revenue,Total value of open opportunities,Sum of open deal values,Currency,CRM,Weekly,Leading indicator for future revenue
+ROI,Efficiency,Campaign return on investment,(Revenue - Spend) / Spend,Percentage,Campaign data,Per campaign,Positive ROI = profitable campaign
