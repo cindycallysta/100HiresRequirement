@@ -1,18 +1,24 @@
-# 100HiresRequirement
-Hello! This is my first GitHub and the Cursor AI experiment. Through this file, I would like to share three things. 
+Reddit marketing for B2B SaaS
 
-The first one is the extensions that I have successfully installed in my Cursor AI. This category is limited to *Claude* and *Codex* only. 
+Ahsan Zahid on LinkedIn
+Brent Csutoras on LinkedIn
+Dekker the Marketer on Youtube
+Olegca on Youtube
+Devesh_aiseo on X
+KMahjn on X
+Jules Davies on LinkedIn
+Tayyaba Ameen on LinkedIn
+Krista Doyle on LinkedIn 
+MD Noor Alom on LinkedIn
 
-Second, the steps I have conducted. 
-1. Setting up the GitHub account, as I have no prior knowledge or experience in this realm. This setup includes setting up my profile and linking the account to Cursor AI. 
-2. Creating an adjustable repository with the READMEs set to on and configuring the visibility to public. 
-3. Experimenting with my Cursor AI. Following the email sent from Cursor AI, I diligently followed the steps written, ranging from initiating an agent conversation to issuing commands. 
-4. To enhance my understanding, I performed another experiment in Cursor AI through the command "Generate a marketing KPI tracker template" and linked it to the repository on GitHub. 
-5. To align with the opportunity I applied for, I built the marketing KPI tracker with Model Composer 2.5 without a prior repo. It results in 7 CSV files, namely the monthly KPI tracker, channel performance, campaign tracker, funnel metrics, budget spend, dashboard summary, and KPI definitions. These files covered the awareness, acquisition, conversion, efficiency, engagement, and revenue categories. However, as Git is not available in my Cursor AI environment, I uploaded the templates manually to the repo. 
-
-Last but not least, the issues I ran into and my actions to resolve the issues.
-1. My first experiment made my free plan run out. Hence, I log in to another account to enjoy the free plan of my Cursor AI account.
-
-I am still figuring out the options offered in GitHub and Cursor AI. However, I will never back down from learning this because there are many YouTube videos that provide for beginners like me to learn. Thank you for the opportunity!
-
-
+Find 10 experts on your chosen topic (LinkedIn authors, YouTube creators, podcast hosts - people who actually practice what they teach, not just write about it)
+Use Claude Code or Codex to collect their recent content through APIs:
+- YouTube transcripts via API (Supadata or other free methods)
+- LinkedIn posts: scrape or manually collect their latest posts
+Organize everything in your GitHub repo:
+- /research/sources.md - list of all experts with links, dates, and brief annotations
+- /research/linkedin-posts/ - posts organized by author
+- /research/youtube-transcripts/ - transcripts organized by video
+- /research/other/ - any additional materials
+Update your README.md with what you collected and why you chose these experts
+Commit and push regularly (not one giant commit at the end)
