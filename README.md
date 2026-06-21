@@ -21,11 +21,17 @@ Research collection for [100HiresRequirement](https://github.com/cindycallysta/1
 
 Each person **practices** Reddit marketing for B2B/SaaS—not just writes about it:
 
-- **Enterprise / strategy:** Brent Csutoras (OGS Media, Reddit since 2006), Krista Doyle (HubSpot Reddit → Fan Out)
-- **Agency operators:** Jules Davies (Scalerrs), Tayyaba Ameen, MD Noor Alom (Clean Email, Octoparse)
-- **Community builders:** Oleg G (Skool + subreddit growth), Ahsan Zahid (Amplivance)
-- **Educators:** Dekker Fraser (Udemy SaaS + Reddit modules)
-- **GEO / AI citation:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
+- **Ahsan Zahid:** Brent Csutoras (OGS Media, Reddit since 2006), Krista Doyle (HubSpot Reddit → Fan Out)
+- **Brent Csutoras:** Jules Davies (Scalerrs), Tayyaba Ameen, MD Noor Alom (Clean Email, Octoparse)
+- **Dekker the Marketer:** Oleg G (Skool + subreddit growth), Ahsan Zahid (Amplivance)
+- **Oleg G / Olegca:** Dekker Fraser (Udemy SaaS + Reddit modules)
+- **Devesh_aiseo:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
+- **KMahjn:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
+- **Jules Davies:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
+- **Tayyaba Ameen:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
+- **Krista Doyle:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
+- **MD Noor Alom:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
+
 
 ## Repository structure
 
