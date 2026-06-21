@@ -1,14 +1,14 @@
 # Ahsan Zahid — LinkedIn Posts (Reddit Marketing)
 
 Profile: https://www.linkedin.com/in/ahsan-zahid-335629219  
-Collected: June 2026
+Collected: 20 June 2026
 
 ---
 
 ## Post 1: How Does Reddit Work for Brands in 2026?
 
 **URL:** https://www.linkedin.com/posts/ahsan-zahid-335629219_redditmarketing-saasgrowth-startupstrategy-activity-7445902544498778112-awoj  
-**Date:** ~Jan 2026 (activity ID 7445902544498778112)
+**Date:** April 2026 (activity ID 7445902544498778112)
 
 **Full text:**
 
@@ -39,6 +39,7 @@ The difference is not budget. It's approach.
 ## Post 2: Small Business Reddit Growth Strategy
 
 **URL:** https://www.linkedin.com/posts/ahsan-zahid-335629219_smallbusinessgrowth-redditmarketing-startupstrategy-activity-7447739501893861376-trND
+**Date:** April 2026 
 
 **Summary:**
 
@@ -54,5 +55,6 @@ The difference is not budget. It's approach.
 ## Post 3: Buyers on Reddit (2026 Advantage)
 
 **URL:** https://www.linkedin.com/posts/ahsan-zahid-335629219_effective-reddit-marketing-strategies-for-activity-7460060924671090688-eLMy
+**Date:** May 2026 
 
-**Hook:** "Your competitors are on Instagram. Your buyers are on Reddit. That gap? That's your 2026 advantage."
+**Full Text:** "Your competitors are on Instagram. Your buyers are on Reddit. That gap? That's your 2026 advantage."
