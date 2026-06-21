@@ -8,7 +8,7 @@ Research collection for [100HiresRequirement](https://github.com/cindycallysta/1
 |---|--------|----------|---------|
 | 1 | Ahsan Zahid | LinkedIn | [ahsan-zahid-335629219](https://www.linkedin.com/in/ahsan-zahid-335629219) |
 | 2 | Brent Csutoras | LinkedIn | [brentcsutoras](https://www.linkedin.com/in/brentcsutoras) |
-| 3 | Dekker the Marketer | YouTube | [Reddit Marketing + SEO](https://www.youtube.com/watch?v=Mxj8aCSkK0M) |
+| 3 | Dekker the Marketer | YouTube | [Reddit Marketing + SEO](https://www.youtube.com/dekkerfraser) |
 | 4 | Olegca (Oleg G) | YouTube / Skool | [@oleggca](https://www.youtube.com/@oleggca) |
 | 5 | Devesh_aiseo | X | [@devesh_aiseo](https://x.com/Devesh_aiseo) |
 | 6 | KMahjn | X | [@KMahjn](https://x.com/KMahjn) |
@@ -68,12 +68,3 @@ research/
 5. **Start in external subreddits** — Branded communities only when resourced (Krista, Olena)
 6. **Measure beyond last-click** — Brand search lift, AI citations, assisted conversions
 
-## Next steps
-
-- Commit and push to `Reddit-marketing-for-B2B-SaaS` branch on GitHub
-- Continue collecting new posts monthly
-- Add direct X API pulls when credentials available
-
-## Related KPI templates
-
-See `templates/` for marketing KPI tracking CSVs (monthly tracker, channel performance, funnel metrics).
