@@ -21,17 +21,16 @@ Research collection for [100HiresRequirement](https://github.com/cindycallysta/1
 
 Each person **practices** Reddit marketing for B2B/SaaS—not just writes about it:
 
-- **Ahsan Zahid:** Brent Csutoras (OGS Media, Reddit since 2006), Krista Doyle (HubSpot Reddit → Fan Out)
-- **Brent Csutoras:** Jules Davies (Scalerrs), Tayyaba Ameen, MD Noor Alom (Clean Email, Octoparse)
-- **Dekker the Marketer:** Oleg G (Skool + subreddit growth), Ahsan Zahid (Amplivance)
-- **Oleg G / Olegca:** Dekker Fraser (Udemy SaaS + Reddit modules)
-- **Devesh_aiseo:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
-- **KMahjn:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
-- **Jules Davies:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
-- **Tayyaba Ameen:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
-- **Krista Doyle:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
-- **MD Noor Alom:** Devesh_aiseo (OrganicReach), KMahjn (GEO + Reddit 90/10 playbook)
-
+- **Ahsan Zahid: Reddit branding and marketing specialist who can turn his focus on turning audiences into loyal and active communities that naturally boost engagement and business growth. Truly a marketing expert. 
+- **Brent Csutoras: OGS Media, has been involved in Reddit since 2006
+- **Dekker the Marketer: Strong in Udemy Saas and teach Reddit modules for free, insightful for many people.
+- **Oleg G / Olegca: Focus in Subreddit growth, allowing the viewers to learn about the growth process. 
+- **Devesh_aiseo:** Often shares his thoughts on Reddit marketing strategy, helping people who have zero knowledge to learn about it.
+- **KMahjn:** Often shares his thoughts in a very detailed way about Reddit marketing strategy, helping people who have zero knowledge to learn about it.
+- **Jules Davies:** Owned a SAAS agency but still shares about his knowledge in Reddit strategy often. 
+- **Tayyaba Ameen:** Shares his tips on helping SaaS & B2B brands grow through Google, Reddit & AI Search
+- **Krista Doyle: A Hubspot Reddit Specialist, a truly expert in marketing strategy. 
+- **MD Noor Alom:** Often sharing insights on utilizing Reddit as an organic growth engine, a focus group, and a search channel rather than a traditional advertising billboard.
 
 ## Repository structure
 
