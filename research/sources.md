@@ -1,6 +1,6 @@
 # Expert Sources — Reddit Marketing for B2B SaaS
 
-Collected: June 21, 2026  
+Collected: June 20, 2026  
 Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI citation strategy
 
 ---
