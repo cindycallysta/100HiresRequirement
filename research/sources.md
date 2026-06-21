@@ -37,7 +37,7 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 |----------------|------|------------|
 | May 2026 | [Reddit Q1 earnings takeaways](https://www.linkedin.com/posts/brentcsutoras_reddit-activity-7458505223008018432-BggQ) | Live commentary from SMMW; SEJ article on Reddit quarterly earnings. |
 | May 2026 | [Reddit for Business Q&A](https://www.linkedin.com/posts/brentcsutoras_from-reddit-to-revenue-building-real-community-activity-7457448953589080065-32zi) | Promotes live Q&A on Reddit for business with Bart Goralewicz. |
-| May 2026 | [Reddit Details that Marketer Missed](https://www.searchenginejournal.com/author/brentc/) | Articles: "The Reddit Earnings Story Most Marketers Missed," AMA on what works, subreddit-to-Google strategy. |
+| May 2026 | [Reddit Details that Marketer Missed](https://www.searchenginejournal.com/the-reddit-earnings-story-most-marketers-missed/573727/) | Article: "The Reddit Earnings Story Most Marketers Missed," AMA on what works, subreddit-to-Google strategy. |
 | Oct 2025 | [Brands keep failing on Reddit](https://nohacks.co/episode/208-how-ai-is-forcing-brands-to-be-more-human-with-brent-csutoras) | Title: "208: How AI Is Forcing Brands to Be More Human with Brent Csutoras." |
 
 ---
