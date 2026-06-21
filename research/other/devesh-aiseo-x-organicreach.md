@@ -41,14 +41,16 @@ Focus: Reddit marketing + GEO/PSO for YC-stage startups and SaaS brands.
 
 ---
 
-## X post (syndicated via Vanlett / OrganicReach)
+## X post
 
 **Handle:** @devesh_aiseo  
 **Theme:** Authentic > polished
 
-> A founder spent 6 hours building the perfect LinkedIn carousel... 12 likes. Next day one raw sentence: "Just lost a client we thought would close." ... That post brought comments, DMs, and inbound leads.
+Spent the last few hours going through Reddit threads around SaaS buying decisions.
 
-**OrganicReach positioning:** Help founders create content that sounds human and compounds into pipeline—including Reddit-native engagement strategy.
+Honestly crazy how many people trust random user experiences more than polished landing pages now.
+
+Feels like the internet is shifting back toward “people trust people” again.
 
 ---
 
