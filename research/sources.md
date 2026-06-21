@@ -17,9 +17,9 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 
 | Date (approx.) | Link | Annotation |
 |----------------|------|------------|
-| 2026 | [How Does Reddit Work for Brands in 2026?](https://www.linkedin.com/posts/ahsan-zahid-335629219_redditmarketing-saasgrowth-startupstrategy-activity-7445902544498778112-awoj) | Core thesis: Reddit is a trust engine, not an ad channel. Value-first content, conversations > campaigns, niche subreddits = high-intent micro-markets. |
-| 2026 | [Small business Reddit growth](https://www.linkedin.com/posts/ahsan-zahid-335629219_smallbusinessgrowth-redditmarketing-startupstrategy-activity-7447739501893861376-trND) | Case-style post: communities beat paid ads; actionable tips (observe, answer, share lessons, engage consistently). |
-| 2026 | [Buyers on Reddit advantage](https://www.linkedin.com/posts/ahsan-zahid-335629219_effective-reddit-marketing-strategies-for-activity-7460060924671090688-eLMy) | Short hook: competitors on Instagram, buyers on Reddit. |
+| Apr 2026 | [How Does Reddit Work for Brands in 2026?](https://www.linkedin.com/posts/ahsan-zahid-335629219_redditmarketing-saasgrowth-startupstrategy-activity-7445902544498778112-awoj) | Core thesis: Reddit is a trust engine, not an ad channel. Value-first content, conversations > campaigns, niche subreddits = high-intent micro-markets. |
+| Apr 2026 | [Small business Reddit growth](https://www.linkedin.com/posts/ahsan-zahid-335629219_smallbusinessgrowth-redditmarketing-startupstrategy-activity-7447739501893861376-trND) | Case-style post: communities beat paid ads; actionable tips (observe, answer, share lessons, engage consistently). |
+| May 2026 | [Buyers on Reddit advantage](https://www.linkedin.com/posts/ahsan-zahid-335629219_effective-reddit-marketing-strategies-for-activity-7460060924671090688-eLMy) | Short hook: competitors on Instagram, buyers on Reddit. |
 
 ---
 
@@ -35,10 +35,10 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 
 | Date (approx.) | Link | Annotation |
 |----------------|------|------------|
-| 2026 | [Reddit Q1 earnings takeaways](https://www.linkedin.com/posts/brentcsutoras_reddit-activity-7458505223008018432-BggQ) | Live commentary from SMMW; SEJ article on Reddit quarterly earnings. |
-| 2026 | [Reddit for Business Q&A](https://www.linkedin.com/posts/brentcsutoras_from-reddit-to-revenue-building-real-community-activity-7457448953589080065-32zi) | Promotes live Q&A on Reddit for business with Bart Goralewicz. |
-| Ongoing | [SEJ author page](https://www.searchenginejournal.com/author/brentc/) | Articles: "Reddit Marketing in 2026," AMA on what works, subreddit-to-Google strategy. |
-| Podcast | [No Hacks #208](https://nohacks.co/episode/208-how-ai-is-forcing-brands-to-be-more-human-with-brent-csutoras) | Reddit as networking event; subreddit-specific norms; anonymity = honest feedback. |
+| May 2026 | [Reddit Q1 earnings takeaways](https://www.linkedin.com/posts/brentcsutoras_reddit-activity-7458505223008018432-BggQ) | Live commentary from SMMW; SEJ article on Reddit quarterly earnings. |
+| May 2026 | [Reddit for Business Q&A](https://www.linkedin.com/posts/brentcsutoras_from-reddit-to-revenue-building-real-community-activity-7457448953589080065-32zi) | Promotes live Q&A on Reddit for business with Bart Goralewicz. |
+| May 2026 | [Reddit Details that Marketer Missed](https://www.searchenginejournal.com/author/brentc/) | Articles: "The Reddit Earnings Story Most Marketers Missed," AMA on what works, subreddit-to-Google strategy. |
+| Oct 2025 | [Brands keep failing on Reddit](https://nohacks.co/episode/208-how-ai-is-forcing-brands-to-be-more-human-with-brent-csutoras) | Title: "208: How AI Is Forcing Brands to Be More Human with Brent Csutoras." |
 
 ---
 
@@ -54,9 +54,9 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 
 | Date | Link | Annotation |
 |------|------|------------|
-| 2026-05-17 | [Reddit Marketing + Reddit SEO (Engain)](https://www.youtube.com/watch?v=Mxj8aCSkK0M) | 13-min tutorial: find Google-ranking Reddit threads, comment strategy, account warm-up, soft mentions, bridge pages. |
+| May 2026 | [Reddit Marketing + Reddit SEO (Engain)](https://www.youtube.com/watch?v=Mxj8aCSkK0M) | 13-min tutorial: find Google-ranking Reddit threads, comment strategy, account warm-up, soft mentions, bridge pages. |
 | Course | [SaaS Marketing on Udemy](https://www.udemy.com/course/saas-marketing/) | Includes "Reddit Marketing + SEO" and "Secret Reddit Marketing Hack" lessons. |
-| Interview | [CMO Perspectives — budget allocation](https://socialimpactheroes.com/cmo-perspectives-dekker-fraser-of-udemy-on-where-to-assign-your-marketing-budget-and-why/) | Reddit showed 80% CPM drop vs YouTube; context-specific placements over broad reach. |
+| Jan 2024 | [CMO Perspectives — budget allocation](https://socialimpactheroes.com/cmo-perspectives-dekker-fraser-of-udemy-on-where-to-assign-your-marketing-budget-and-why/) | Title: "CMO Perspectives: Dekker Fraser Of Udemy On Where to Assign Your Marketing Budget and Why." |
 
 ---
 
@@ -73,9 +73,8 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 
 | Date | Link | Annotation |
 |------|------|------------|
-| 2026-03-08 | [Reddit SEO Ranking Factors 2026](https://olegg.ca/) (blog) | Subreddit growth case studies; Reddit as SEO + brand discovery channel. |
-| Skool | [Reddit Marketing community](https://www.skool.com/reddit-marketing/about) | Organic promotion, rank threads in Google, avoid bans; course in classroom. |
-| LinkedIn repost | [Corporate Reddit account failures](https://www.linkedin.com/in/ajay-gore-828b5977) (cited in research) | Oleg's subreddit moderation perspective: lurk 2 weeks, build karma, avoid early links. |
+| Mar 2026 | [Reddit SEO Ranking Factors 2026](https://olegg.ca/) (blog) | Title: "The Complete Guide to Reddit SEO Ranking Factors in 2026." | Subreddit growth case studies; Reddit as SEO + brand discovery channel. |
+| - | [Reddit Marketing community](https://www.skool.com/reddit-marketing/about) | Reddit Marketing Course that includes organic promotion, rank threads in Google, avoid bans; course in classroom. |
 
 ---
 
@@ -90,11 +89,11 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 
 **Recent Reddit-relevant content**
 
-| Source | Link | Annotation |
+| Date | Link | Annotation |
 |--------|------|------------|
-| Blog | https://organicreach.ai/blog | "Everything you need to know about building authentic Reddit presence as a YC-stage startup" (12 min read). |
-| Resources | https://organicreach.ai/resources | Reddit Marketing Playbook; "Reddit vs Traditional Social Media ROI for B2B"; case studies (400% lead growth). |
-| X (via syndication) | https://vanlett.com/h/OrganicReach | @devesh_aiseo — authentic content > polished carousels; OrganicReach helps founders compound pipeline. |
+| Apr 2026 | https://organicreach.ai/blog | "Everything you need to know about building authentic Reddit presence as a YC-stage startup, from community selection to content strategy and measurable outcomes that drive both signups and LLM citations." (12 min read). |
+| - | https://organicreach.ai/resources | Reddit Marketing Playbook; "Reddit vs Traditional Social Media ROI for B2B"; case studies (400% lead growth). |
+| May 2026 | https://x.com/devesh_aiseo/status/2059597305234206760 | Through Reddit, the internet is shifting back toward “people trust people.”  |
 
 ---
 
@@ -108,12 +107,11 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 
 **Recent Reddit-relevant content**
 
-| Source | Link | Annotation |
+| Date | Link | Annotation |
 |--------|------|------------|
-| Industry thread | [Using Reddit to Grow Your Newsletter](https://www.wellput.io/newslettersponsorshipinsider/using-reddit-to-grow-your-newsletter) | Cites r/beehiiv Reddit growth thread; 90% contribution / 10% promotion formula; long-term comment-by-comment reputation. |
-| Profile | https://kaxxtik.me/ | GEO specialist; Reddit cited as part of generative search visibility stack. |
-
-*Note: Direct X API fetch was unavailable during collection; content captured via indexed posts and industry write-ups referencing @KMahjn Reddit strategies.*
+| Jun 2026 | (https://x.com/kmahjn/status/2067562986093633843) | RedX as an alternative for a SaaS or tech founder who wants Reddit working as a real acquisition channel |
+| Jun 2026 | https://x.com/kmahjn/status/2066802432160804927 | Reddit Marketing 101 in 6 steps. |
+| Jun 2026 | https://x.com/kmahjn/status/2065111543017292132 | When you create an account for marketing your product/service, never keep branded usernames. |
 
 ---
 
@@ -129,10 +127,10 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 
 | Date (approx.) | Link | Annotation |
 |----------------|------|------------|
-| 2026 | [Reddit comeback in B2B](https://www.linkedin.com/in/jules-davies) (profile activity) | Reddit → ChatGPT/Google AI/Perplexity citations; value-first practitioner voice; hiring Reddit specialists. |
-| Service | [Scalerrs Reddit Marketing Agency](https://www.scalerrs.co/service/reddit-marketing-agency) | Map high-intent threads ranking on Google; authentic comments; AI citation positioning. |
-| Case study | [AutoRFP](https://www.scalerrs.co/case-studies/autorfp) | Omni-channel Reddit + reverse-engineered AI sources; 3–5x LLM citations. |
-| Podcast | [Keyword.com — Search Everywhere Optimization](https://keyword.com/podcast/agency-growth-series-with-jules-davies/) | Reddit + YouTube for AEO; AI search = 20–30% pipeline for some SaaS clients. |
+| Jun 2026 | [Reddit myths](https://www.linkedin.com/feed/update/urn:li:activity:7473707170010718208/) | Just show up where people ask for help, share your lived experiences and ChatGPT will cite you when those same questions come up. |
+| Jun 2026 | [Commenting in Reddit](https://www.linkedin.com/feed/update/urn:li:activity:7473345129731432448/) | Best Reddit Comment Formats: Be upfront, be brief, move on.|
+| Jun 2026 | [AutoRFP](https://www.linkedin.com/posts/jules-davies_why-are-brands-still-dismissing-reddit-when-activity-7470800597718507520-VtIQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5hHbQBe2xYm49r82wRMyZjgwO_d8oSZIo) | DON'T ignore Reddit. What's on Reddit is what's on AI. |
+| May 2026 | [Keyword.com — Search Everywhere Optimization](https://keyword.com/podcast/agency-growth-series-with-jules-davies/) | Reddit + YouTube for AEO; AI search = 20–30% pipeline for some SaaS clients. |
 
 ---
 
@@ -146,11 +144,11 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 
 **Recent Reddit-relevant content**
 
-| Date (approx.) | Link | Annotation |
+| Date | Link | Annotation |
 |----------------|------|------------|
-| 2026 | [5-step Reddit Buyer Pyramid](https://www.linkedin.com/posts/seo-expert-tayyaba_most-people-use-reddit-to-spam-links-then-activity-7459920352266100737-1N2W) | Subreddit density → keyword mapping → monitoring → qualify → value engagement. |
-| 2026 | [10 signals for search visibility](https://www.linkedin.com/posts/seo-expert-tayyaba_10-signals-that-10x-your-search-visibility-activity-7458470839513149440-Xsy2) | Signal #6: Reddit in 40%+ ChatGPT answers; helpful replies beat promo. |
-| 2026 | [SEO patience + Reddit mentions](https://www.linkedin.com/posts/seo-expert-tayyaba_month-4-of-my-first-seo-project-i-almost-activity-7458833152959078400-Xyd6) | Build Reddit & Quora mentions for 4x AI citation boost during SEO ramp. |
+| May 2026 | [5-step Reddit Buyer Pyramid](https://www.linkedin.com/posts/seo-expert-tayyaba_most-people-use-reddit-to-spam-links-then-activity-7459920352266100737-1N2W) | Subreddit density → keyword mapping → monitoring → qualify → value engagement. |
+| May 2026 | [10 signals for search visibility](https://www.linkedin.com/posts/seo-expert-tayyaba_10-signals-that-10x-your-search-visibility-activity-7458470839513149440-Xsy2) | Signal #6: Reddit in 40%+ ChatGPT answers; helpful replies beat promo. |
+| May 2026 | [SEO patience + Reddit mentions](https://www.linkedin.com/posts/seo-expert-tayyaba_month-4-of-my-first-seo-project-i-almost-activity-7458833152959078400-Xyd6) | Build Reddit & Quora mentions for 4x AI citation boost during SEO ramp. |
 
 ---
 
@@ -166,10 +164,9 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 
 | Date | Link | Annotation |
 |------|------|------------|
-| 2026-02-25 | [Superpath AMA — Reddit Best Practices](https://www.superpath.co/blog/ama-with-krista-doyle-on-reddit-best-practices) | Start external subreddits first; 90-day warmup; ethical advocacy; measure AI citations via Peec/Profound. |
-| Video | [Organic Marketing in AI Search (Writesonic)](https://www.youtube.com/watch?v=dkd3ydw9iH0) | Fan Out framework: Identify → Fan Out → Enable across Reddit, YouTube, LinkedIn, G2. |
-| LinkedIn | [2026 Reddit Marketing Playbook interview](https://www.linkedin.com/posts/videojenna_reddit-marketing-the-complete-2026-playbook-activity-7431675651574640640-aIyR) | Featured expert alongside Ross Simmonds; HubSpot Reddit origin story. |
-| Site | https://withfanout.com/ | Reddit strategy & execution for B2B SaaS in AI search era. |
+| Feb 2026 | [Superpath AMA — Reddit Best Practices](https://www.superpath.co/blog/ama-with-krista-doyle-on-reddit-best-practices) | Start external subreddits first; 90-day warmup; ethical advocacy; measure AI citations via Peec/Profound. |
+| May 2026 | [Organic Marketing in the Age of AI Search](https://www.youtube.com/watch?v=dkd3ydw9iH0) | Fan Out framework: Identify → Fan Out → Enable across Reddit, YouTube, LinkedIn, G2. |
+| Mar 2026 | [2026 Reddit Marketing Playbook interview](https://www.youtube.com/watch?v=QqRIfcXYs5E&feature=youtu.be) | Succeded in building HubSpot's first-ever Reddit strategy on their AI search team, now runs her own Reddit consultancy |
 
 ---
 
@@ -185,10 +182,10 @@ Topic focus: Organic Reddit marketing, Reddit SEO/GEO, B2B SaaS pipeline, AI cit
 
 | Date (approx.) | Link | Annotation |
 |----------------|------|------------|
-| 2026 | [Reddit iceberg for SaaS](https://www.linkedin.com/posts/md-noor-alom-1004ab188_you-might-be-seeing-reddit-as-like-this-iceberg-activity-7457166482519773184-7b8P) | Pain points, high-intent leads, SEO authority, anti-fragile trust; "solve don't sell." |
-| 2026 | [LinkedIn copy-paste fails on Reddit](https://www.linkedin.com/posts/md-noor-alom-1004ab188_reddit-redditmarketing-activity-7460051843768012800-7TsJ) | Platform culture mismatch; authentic engagement required. |
-| 2026 | [AI listens to Reddit](https://www.linkedin.com/posts/md-noor-alom-1004ab188_as-a-marketer-i-have-no-excuse-to-ignore-activity-7449534554559885312-G0dJ) | 5-step founder playbook: listen → learn → help → seed value → repurpose. |
-| 2026 | [Trust over shouting](https://www.linkedin.com/posts/md-noor-alom-1004ab188_one-thing-i-learned-from-reddit-marketing-activity-7456050119852089345-NcX9) | Stop acting like marketer; show up as community member. |
+| May 2026 | [Reddit iceberg for SaaS](https://www.linkedin.com/posts/md-noor-alom-1004ab188_you-might-be-seeing-reddit-as-like-this-iceberg-activity-7457166482519773184-7b8P) | Pain points, high-intent leads, SEO authority, anti-fragile trust; "solve don't sell." |
+| May 2026 | [LinkedIn copy-paste fails on Reddit](https://www.linkedin.com/posts/md-noor-alom-1004ab188_reddit-redditmarketing-activity-7460051843768012800-7TsJ) | Platform culture mismatch; authentic engagement required. |
+| Apr 2026 | [AI listens to Reddit](https://www.linkedin.com/posts/md-noor-alom-1004ab188_as-a-marketer-i-have-no-excuse-to-ignore-activity-7449534554559885312-G0dJ) | 5-step founder playbook: listen → learn → help → seed value → repurpose. |
+| May 2026 | [Trust over shouting](https://www.linkedin.com/posts/md-noor-alom-1004ab188_one-thing-i-learned-from-reddit-marketing-activity-7456050119852089345-NcX9) | Stop acting like marketer; show up as community member. |
 
 ---
 
