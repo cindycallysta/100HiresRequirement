@@ -15,6 +15,7 @@ Both align with expert guidance on value-first participation (Csutoras, 2025a; A
 ---
 
 Why this might work: Reddit rewards contributions that feel native to the subreddit culture (Zahid, 2026a). Moderators are the gatekeepers of that culture—and they are chronically under-resourced. Brands that remove friction for mods (money, tools, logistics) without asking for ad space trade commercial hostility for institutional trust.
+
 ---
 
 ## Pillar 1: Sponsor Subreddit-Native Community Events
