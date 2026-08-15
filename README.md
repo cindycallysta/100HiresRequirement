@@ -1,11 +1,40 @@
 # Reddit Marketing Playbook Guide
 
-**Use these files for GitHub upload:**
+**Branch:** [Playbook-of-Reddit-Marketing](https://github.com/cindycallysta/100HiresRequirement/tree/Playbook-of-Reddit-Marketing)
+
+---
+
+## Files in This Playbook
 
 | File | Purpose |
 |------|---------|
-| [Section-01-Expert-Recommendations.md](./Section-01-Expert-Recommendations.md) | Compilation of Recommendations
-| [Section-02-and-03-Suggestions.md](./Section-02-and-03-Suggestions.md) | Competing viewpoints on 4 issues |
+| [Section-01-Expert-Recommendations.md](./Section-01-Expert-Recommendations.md) | Compilation of expert recommendations (10 practitioners) |
+| [Section-02-and-03-Suggestions.md](./Section-02-and-03-Suggestions.md) | Competing viewpoints on key Reddit marketing issues |
+| [Section-04-Original-Community-Native-Playbook.md](./Section-04-Original-Community-Native-Playbook.md) | **Original playbook** — mod-sponsored events + open-source micro-tools |
+| [Section-05-Playbook-Weakness-Analysis.md](./Section-05-Playbook-Weakness-Analysis.md) | **Honest critique** — weaknesses, untested assumptions, SaaS/IT fit |
 | [References.md](./References.md) | APA 7 reference list |
 
-**Canonical location in repo:** `research/COMPILATION-*.md` (slightly condensed, linked to per-expert notes in `research/linkedin-posts/` and `research/other/`)
+---
+
+## Reading Order
+
+1. **Section 01** — What experts recommend today  
+2. **Section 02 & 03** — Where experts disagree  
+3. **Section 04** — Original community-native strategy (author concept)  
+4. **Section 05** — Stress-test Section 04 before investing  
+
+---
+
+## Section 04 at a Glance (Original Ideas)
+
+**Pillar 1 — Sponsor mod-run community events**  
+Fund prize pools for hackathons, design challenges, and native competitions. Mods write and pin posts; no corporate sales copy.
+
+**Pillar 2 — Open-source scaffolding micro-tools**  
+Ship free, un-monetized utilities that solve one subreddit-specific friction. One-line README credit; aim for wiki/sidebar placement.
+
+---
+
+## Upload to GitHub
+
+Push this folder to the `Playbook-of-Reddit-Marketing` branch, or upload files via the GitHub web UI.
