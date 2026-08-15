@@ -2,7 +2,7 @@
 
 This document compares **contrasting viewpoints** among the ten profiled experts (and closely related voices they cite) on shared strategic questions. Use it to decide which philosophy fits your brand, resources, and risk tolerance.
 
-In-text citations: APA 7th edition. Full references: [03-references-apa.md](./03-references-apa.md).
+In-text citations: APA 7th edition. Full references: [References.md](./References.md).
 
 ---
 
