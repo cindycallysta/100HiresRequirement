@@ -154,10 +154,6 @@ This is not a dismissal—it is a pre-mortem so you can decide where to invest a
 
 ## 3. What Is Missing From the Playbook
 
-### 3.1 Missing from Section 04 (your original ideas)
-
-- **Reddit sitewide rules & API terms** — commercial collaboration disclosure requirements evolve; verify current [Reddit Help](https://support.reddithelp.com/) policies before paid sponsorship
-- **Admin-level escalation path** if mod partnership is blocked
 - **Conflict of interest policy** — written public doc on sponsor non-involvement in judging
 - **Competitive sub mapping** — what if rival already sponsors the same sub's events?
 - **Crisis plan** — if event thread turns negative ("astroturfed," "rigged winners")
@@ -165,34 +161,13 @@ This is not a dismissal—it is a pre-mortem so you can decide where to invest a
 - **Budget floor/ceiling** — no guidance on minimum viable prize ($200 vs. $5K perception)
 - **Non-English subs** — entire playbook assumes English technical communities
 
-### 3.2 Missing from the overall repository ([Playbook branch](https://github.com/cindycallysta/100HiresRequirement/tree/Playbook-of-Reddit-Marketing))
-
-The branch currently covers:
-
-- **Section 01:** What experts recommend (comment-first, GEO, 9:1, warmup)
-- **Section 02 & 03:** Where experts disagree
-
-It does **not** yet include:
+and
 
 - Pilot experiment templates (mod outreach scripts, event briefs)
 - Decision tree: *when to use Section 04 vs. Section 01 tactics*
 - Competitive analysis of brands already doing Reddit community sponsorship
 - Legal/compliance appendix
 - **Failure case studies** (attempts that backfired)
-
-Section 04 fills a strategic gap—but **operational playbooks and proof** are still missing.
-
-### 3.3 Missing compared to expert "full stack" Reddit programs
-
-Experts describe **multi-surface** approaches (Davies, n.d.; Doyle, n.d.):
-
-- Daily comment participation
-- Ranking-thread GEO
-- Employee advocacy
-- Reddit ads (Csutoras, 2025b)
-- Social listening (Doyle, 2026a)
-
-Section 04 alone is **not a full channel strategy**—it is a **high-leverage wedge** that still needs everyday community presence to avoid looking like a parachute brand.
 
 ---
 
@@ -212,21 +187,6 @@ Section 04 alone is **not a full channel strategy**—it is a **high-leverage we
 | CAC math | $2K prize vs. enterprise LTV can work | Harder to justify |
 | Brand risk from "corp sponsor" | Mitigated by builder credibility | Higher skepticism |
 
-**Your instinct is directionally correct.** Section 01's strongest Reddit case studies (Alom, 2025; Paliwal, 2026b) are **SaaS/productivity/dev** contexts.
-
-### Where it could work outside SaaS/IT (adapted)
-
-| Industry | Pillar 1 (events) adaptation | Pillar 2 (micro-tool) adaptation |
-|----------|-------------------------------|----------------------------------|
-| **Design / creative tools** | Design challenges, critique weeks | Figma plugin, asset batch tools |
-| **Finance / fintech** | Spreadsheet modeling contests (careful compliance) | Free calculators, CSV templates |
-| **Education / EdTech** | Lesson plan, curriculum hacks | Free grading rubric generators |
-| **Recruiting / HR tech** | Resume/portfolio reviews (*your 100Hires context*) | Job-post formatter, ATS-friendly templates |
-| **Fitness / wellness** | Transformation challenges (high moderation risk) | Tracking sheets—not typical IT play |
-| **Local businesses** | **Poor fit** — geo-subs rarely want brand sponsors | **Poor fit** |
-
-**Recruiting note:** r/recruiting, r/humanresources, r/jobs exist but are **hostile to vendor promotion**. A **mod-approved resume review week** or **free job-description accessibility checker** fits Section 04 better than sponsoring r/forhire spam.
-
 ### Where it likely fails regardless
 
 - Commodity consumer goods (CPG, fashion, food)
@@ -236,61 +196,7 @@ Section 04 alone is **not a full channel strategy**—it is a **high-leverage we
 
 ---
 
-## 5. Tensions With Section 02 & 03 Expert Debates
-
-| Debate (Section 02 & 03) | How Section 04 lands |
-|----------------------------|----------------------|
-| **Fast vs. slow ROI** | **Slow** — mod cycles + build time; conflicts with Fraser/Alom fast-win tactics unless combined |
-| **Community vs. GEO** | **Community-heavy** — good for trust; GEO upside is indirect unless event threads rank |
-| **Links vs. linkless** | **Linkless-friendly** — strength of playbook |
-| **Multi-account tooling** | **Not needed** — ethical advantage vs. Dekker/Ameen tooling debate |
-| **Reddit central to GEO?** | Events may **not** get cited by LLMs unless threads gain organic discussion volume (Khanal, 2025 caution) |
-
-**Recommendation:** Run Section 04 **alongside** (not instead of) lightweight comment participation from a transparent founder account—bridges the community/GEO split.
-
----
-
-## 6. Failure Modes — Red Flags to Stop
-
-Stop or redesign if:
-
-1. Mod asks for **undisclosed** sponsorship or exclusive pinning rights
-2. Community comments compare you to **astroturf campaigns**
-3. Tool repo gets **security callouts** with no fast response
-4. Event submissions are **<10** despite pin (wrong sub or wrong prize)
-5. **Zero branded search lift** 60 days post-event (possible wrong ICP)
-6. Legal/compliance flags **sweepstakes** structure
-7. Your team cannot commit **6+ months maintenance** on shipped tool
-
----
-
-## 7. Recommended Validation Plan (Before Scaling)
-
-**Phase 0 — Desktop research (2 weeks)**
-
-- List 30 target subs; tag mod responsiveness, event history, rules
-- Document 3 subs where sponsorship already happened (any brand)
-
-**Phase 1 — Micro-tool MVP (4–6 weeks)**
-
-- One sub, one friction, GitHub release
-- Modmail before public post
-- Success = mod wiki link OR organic user shares without prompt
-
-**Phase 2 — Pilot event (6–8 weeks)**
-
-- One mod partnership, $500–$1K prize pool
-- Mod writes 100% of OP
-- Measure: submissions, sentiment ratio, brand search, assisted signup mentions
-
-**Phase 3 — Decide scale**
-
-- If Phase 1–2 fail: revert to Section 01 comment/GEO tactics
-- If succeed: repeat max **2 subs/quarter** (relationship cap)
-
----
-
-## 8. Honest Bottom Line
+## 5. Honest Bottom Line
 
 **Strengths:** Section 04 is one of the few playbooks in this repository that treats Reddit as **infrastructure for moderators**, not a billboard for marketers. It aligns with the deepest expert consensus—**help first, sell never in-thread**—and avoids the ethical landmines flagged in Section 02 & 03 (fake accounts, vote manipulation, AI spam).
 
@@ -298,18 +204,3 @@ Stop or redesign if:
 
 **Best use in the overall playbook:** Position Section 04 as a **strategic wedge for brands with dev capacity and patience**, running in parallel with Section 01's daily participation and selective GEO tactics—not as a replacement for the entire Reddit channel.
 
----
-
-## Cross-Reference Index
-
-| Topic | See |
-|-------|-----|
-| Expert comment-first tactics | [Section 01](./Section-01-Expert-Recommendations.md) |
-| Speed vs. community debate | [Section 02 & 03](./Section-02-and-03-Suggestions.md) |
-| Original playbook detail | [Section 04](./Section-04-Original-Community-Native-Playbook.md) |
-| APA sources | [References.md](./References.md) |
-| Full branch | [github.com/cindycallysta/100HiresRequirement/tree/Playbook-of-Reddit-Marketing](https://github.com/cindycallysta/100HiresRequirement/tree/Playbook-of-Reddit-Marketing) |
-
----
-
-*Author note preserved: "This might only work for SaaS or IT Products only" — **substantially agree**, with recruiting/design/fintech as adjacent exceptions if adapted.*
