@@ -1,6 +1,5 @@
 # Section 04 — Original Community-Native Reddit Playbook
 
-**Author:** Cindy Callysta (original concept)  
 **Repository:** [100HiresRequirement — Playbook-of-Reddit-Marketing](https://github.com/cindycallysta/100HiresRequirement/tree/Playbook-of-Reddit-Marketing)  
 **Related sections:** [Section 01 — Expert Recommendations](./Section-01-Expert-Recommendations.md) | [Section 02 & 03 — Competing Views](./Section-02-and-03-Suggestions.md) | [Section 05 — Weakness Analysis](./Section-05-Playbook-Weakness-Analysis.md)
 
