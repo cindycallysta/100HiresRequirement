@@ -1,6 +1,6 @@
 # Reddit Marketing: Expert Profiles, Strategies & Explanations
 
-Compiled research from ten practitioners for the 100HiresRequirement repository. All recommendations reflect their **recent public guidance** (2024–2026). In-text citations follow APA 7th edition (author, year). Full references appear in [03-references-apa.md](./03-references-apa.md).
+Compiled research from ten practitioners for the 100HiresRequirement repository. All recommendations reflect their **recent public guidance** (2024–2026). In-text citations follow APA 7th edition (author, year). Full references appear in [References.md](./References.md).
 
 ---
 
