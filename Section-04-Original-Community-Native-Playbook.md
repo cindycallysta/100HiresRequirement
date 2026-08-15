@@ -5,12 +5,6 @@
 
 ---
 
-## Executive Summary
-
-This playbook proposes a **moderator-first, community-native** approach to Reddit marketing—distinct from comment-seeding, thread hijacking, or corporate self-promotion. Instead of inserting brand messaging into conversations, the brand **funds and enables what moderators already want to run**: competitions, challenges, and free utilities that make the subreddit better.
-
-The thesis: **earn distribution through infrastructure, not interruption.**
-
 Two pillars:
 
 1. **Sponsor subreddit-native community events** (mod-run, prize-funded, zero sales copy)
