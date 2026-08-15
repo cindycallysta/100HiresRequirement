@@ -193,28 +193,3 @@ Avoid optimizing for **direct click-through** in pinned event posts—that is ex
 
 **Weaker fit:** Consumer FMCG, local services, luxury retail—subs rarely run hackathons; utility tools don't map cleanly. (See Section 05 for full honesty check.)
 
----
-
-## Quick Reference Checklist
-
-**Before any outreach:**
-
-- [ ] Read subreddit rules + wiki + past events
-- [ ] Identify active mods and response patterns
-- [ ] Confirm sponsorship/contest policy
-- [ ] Prepare prize logistics (PayPal, Tremendous, gift cards—mod preference)
-- [ ] Draft mod-owned post template (mod edits all copy)
-- [ ] Legal review: contest terms, tax/disclosure if required
-- [ ] Internal alignment: no sales team commenting in event thread
-
-**Before shipping micro-tool:**
-
-- [ ] One friction, one tool, one sub (not multi-sub launch)
-- [ ] Open-source license chosen
-- [ ] README credit line drafted (one line)
-- [ ] Modmail approval path planned
-- [ ] Maintenance owner assigned for 6+ months
-
----
-
-*Next: [Section 05 — Playbook Weakness Analysis](./Section-05-Playbook-Weakness-Analysis.md)*
