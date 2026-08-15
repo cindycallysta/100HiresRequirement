@@ -14,18 +14,7 @@ Both align with expert guidance on value-first participation (Csutoras, 2025a; A
 
 ---
 
-## Core Philosophy
-
-| Traditional Reddit marketing | This playbook |
-|------------------------------|---------------|
-| Brand posts in threads | Mod posts on behalf of community |
-| Promotional copy + links | Prize pool + rules only |
-| Chase upvotes on comments | Earn mod goodwill + pins |
-| Product as hero | Community event or utility as hero |
-| Short-lived thread visibility | Pinned announcements + wiki/sidebar permanence |
-
-**Why this might work:** Reddit rewards contributions that feel native to the subreddit culture (Zahid, 2026a). Moderators are the gatekeepers of that culture—and they are chronically under-resourced. Brands that remove friction for mods (money, tools, logistics) without asking for ad space trade **commercial hostility for institutional trust**.
-
+Why this might work: Reddit rewards contributions that feel native to the subreddit culture (Zahid, 2026a). Moderators are the gatekeepers of that culture—and they are chronically under-resourced. Brands that remove friction for mods (money, tools, logistics) without asking for ad space trade commercial hostility for institutional trust.
 ---
 
 ## Pillar 1: Sponsor Subreddit-Native Community Events
