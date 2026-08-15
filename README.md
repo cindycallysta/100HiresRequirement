@@ -23,19 +23,6 @@
 2. **Section 02 & 03** — Where experts disagree  
 3. **Section 04** — Original community-native strategy (author concept)  
 4. **Section 05** — Stress-test Section 04 before investing  
-
+5. **Section 06** — Person you might wanna avoid.
+   
 ---
-
-## Section 04 at a Glance (Original Ideas)
-
-**Pillar 1 — Sponsor mod-run community events**  
-Fund prize pools for hackathons, design challenges, and native competitions. Mods write and pin posts; no corporate sales copy.
-
-**Pillar 2 — Open-source scaffolding micro-tools**  
-Ship free, un-monetized utilities that solve one subreddit-specific friction. One-line README credit; aim for wiki/sidebar placement.
-
----
-
-## Upload to GitHub
-
-Push this folder to the `Playbook-of-Reddit-Marketing` branch, or upload files via the GitHub web UI.
