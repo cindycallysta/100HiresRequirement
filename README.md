@@ -4,7 +4,7 @@
 
 | File | Purpose |
 |------|---------|
-| [Section-01-Expert-Recommendations.md](./Section-01-Expert-Recommendations) | Compilation of Recommendations
+| [Section-01-Expert-Recommendations.md](./Section-01-Expert-Recommendations.md) | Compilation of Recommendations
 | [Section-02-and-03-Suggestions.md](./Section-02-and-03-Suggestions) | Competing viewpoints on 4 issues |
 | [References.md](./References.md) | APA 7 reference list |
 
